@@ -1,1 +1,0 @@
-gem "alembic-jekyll-theme"

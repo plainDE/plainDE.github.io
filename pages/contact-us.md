@@ -4,7 +4,7 @@ layout: default
 filename: contact-us.md
 --- 
 
-Send your feed back to:
+You can send your feedback to:
 
 - Email: <segfault@plainde.org>
 - GitHub Issues

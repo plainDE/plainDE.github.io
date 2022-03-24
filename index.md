@@ -20,9 +20,10 @@ The aim of this project is to create a lightweight desktop environment for GNU/L
 Install dependencies: qt6-base noto-fonts-emoji polkit ttf-opensans adwaita-icon-theme make alsa-utils
 
   
-```
+```sh
 git clone https://github.com/plainDE/plainInstaller
-cd plainInstaller; chmod +x install.sh
+cd plainInstaller
+chmod +x install.sh
 ./install.sh
 ```
   

@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 name: plainDE
 title: null
+github:
+  repository_url: https://github.com/plainDE

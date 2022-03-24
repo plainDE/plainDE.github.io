@@ -1,5 +1,5 @@
 ---
-title: "Contact us"
+title: "Get Involved"
 layout: default
 filename: contact-us.md
 --- 

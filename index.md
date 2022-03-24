@@ -36,4 +36,4 @@ plainPanel
 
 # Bugs/ideas/contributing
 Found a bug or would like to contribute to the project?<br>
-Contact us at <a href="mailto:segfault@plainde.org">segfault@plainde.org</a> or via GitHub Issues.
+See <a href="https://plainde.org/pages/contact-us">Contact us</a> page.

@@ -14,7 +14,7 @@ The aim of this project is to create a lightweight desktop environment for GNU/L
   <li>Install dependencies: <i>qt6-base noto-fonts-emoji polkit ttf-opensans adwaita-icon-theme make</i></li>
   <li><pre class="hljs" style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(240, 240, 240) none repeat scroll 0% 0%; color: rgb(68, 68, 68);">git clone https://github.com/plainDE/plainInstaller</pre></li>
   <li><pre class="hljs" style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(240, 240, 240) none repeat scroll 0% 0%; color: rgb(68, 68, 68);">cd plainInstaller; chmod +x install.sh</pre></li>
-  <li><pre class="hljs" style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(240, 240, 240) none repeat scroll 0% 0%; color: rgb(68, 68, 68);">sudo ./install.sh</pre></li>
+  <li><pre class="hljs" style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(240, 240, 240) none repeat scroll 0% 0%; color: rgb(68, 68, 68);">./install.sh</pre></li>
 </ol>
 
 

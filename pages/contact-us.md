@@ -4,4 +4,8 @@ layout: default
 filename: contact-us.md
 --- 
 
-testing
+Send your feed back to:
+
+- Email: <segfault@plainde.org>
+- GitHub Issues
+- Matrix: [#plainde:matrix.org](https://matrix.to/#/#plainde:matrix.org)

@@ -36,4 +36,4 @@ plainPanel
 
 # Bugs/ideas/contributing
 Found a bug or would like to contribute to the project?<br>
-See <a href="https://plainde.org/pages/contact-us">Contact us</a> page.
+See <a href="https://plainde.org/pages/get-involved">Get Involved</a> page.

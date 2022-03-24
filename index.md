@@ -6,7 +6,7 @@
   <br>
   <i>Lightweight. Rapid. Plain.</i>
   <br>
-  <button name="button" onclick="https://github.com/plainDE">View On GitHub</button>
+  <a href="https://github.com/plainDE">View On GitHub</a>
 </div>
 
 # About project

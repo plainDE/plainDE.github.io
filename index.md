@@ -7,19 +7,25 @@
 The aim of this project is to create a lightweight desktop environment for GNU/Linux. Currently we use C++/Qt for developing plainDE, but we will consider integrating other languages if required.
 
 # Screenshots
-<img src="scr/scr-0.0.2.png" width=640 height=480>
+<img src="scr/scr-0.0.2.png" width=640 height=480></img>
 
 # Install
-<ol>
-  <li>Install dependencies: <i>qt6-base noto-fonts-emoji polkit ttf-opensans adwaita-icon-theme make alsa-utils<i></li>
-  <li><pre class="hljs" style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(240, 240, 240) none repeat scroll 0% 0%; color: rgb(68, 68, 68);">git clone https://github.com/plainDE/plainInstaller</pre></li>
-  <li><pre class="hljs" style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(240, 240, 240) none repeat scroll 0% 0%; color: rgb(68, 68, 68);">cd plainInstaller; chmod +x install.sh</pre></li>
-  <li><pre class="hljs" style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(240, 240, 240) none repeat scroll 0% 0%; color: rgb(68, 68, 68);">./install.sh</pre></li>
-  <li>Now you can add plainPanel to your OpenBox/FluxBox/... autostart and enjoy!
-  <pre class="hljs" style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(240, 240, 240) none repeat scroll 0% 0%; color: rgb(68, 68, 68);">plainPanel</pre></li>
-</ol>
 
-<b>Note. </b> Use setxkbmap to change your keyboard layout.
+Install dependencies: qt6-base noto-fonts-emoji polkit ttf-opensans adwaita-icon-theme make alsa-utils
+
+  
+```
+git clone https://github.com/plainDE/plainInstaller
+cd plainInstaller; chmod +x install.sh
+./install.sh
+```
+  
+Now you can add plainPanel to your OpenBox/FluxBox/... autostart and enjoy!
+```
+plainPanel
+```
+
+**Note** Use setxkbmap to change your keyboard layout.
 
 
 # Bugs/ideas/contributing

@@ -21,6 +21,9 @@
       <div id="header">
         <nav>
           <ul>
+            {% for page in site.pages %}
+              <a href={{ page.filename }}>{{ page.title }}</a>
+            {% endfor %}
             <li class="fork"><a href="https://plainde.org">plainDE</a></li>
           </ul>
         </nav>

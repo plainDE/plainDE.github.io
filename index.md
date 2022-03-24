@@ -6,7 +6,7 @@
   <br>
   <i>Lightweight. Rapid. Plain.</i>
   <br>
-  <ul><li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li></ul>
+  <a href="{{ site.github.repository_url }}">View On GitHub</a>
 </div>
 
 # About project

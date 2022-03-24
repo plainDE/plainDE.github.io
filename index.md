@@ -6,7 +6,7 @@
   <br>
   <i>Lightweight. Rapid. Plain.</i>
   <br>
-  <a href="{{ site.github.repository_url }}">View On GitHub</a>
+  [View On GitHub](https://github.com/plainDE){: .btn}
 </div>
 
 # About project

@@ -15,7 +15,11 @@ The aim of this project is to create a lightweight desktop environment for GNU/L
   <li><pre class="hljs" style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(240, 240, 240) none repeat scroll 0% 0%; color: rgb(68, 68, 68);">git clone https://github.com/plainDE/plainInstaller</pre></li>
   <li><pre class="hljs" style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(240, 240, 240) none repeat scroll 0% 0%; color: rgb(68, 68, 68);">cd plainInstaller; chmod +x install.sh</pre></li>
   <li><pre class="hljs" style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(240, 240, 240) none repeat scroll 0% 0%; color: rgb(68, 68, 68);">./install.sh</pre></li>
+  <li>Now you can add plainPanel to your OpenBox/FluxBox/... autostart and enjoy!
+  <pre class="hljs" style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(240, 240, 240) none repeat scroll 0% 0%; color: rgb(68, 68, 68);">plainPanel</pre></li>
 </ol>
+
+<b>Note. </b> Use setxkbmap to change your keyboard layout.
 
 
 # Bugs/ideas/contributing

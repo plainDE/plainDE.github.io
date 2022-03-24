@@ -9,13 +9,13 @@
   <a href="https://github.com/plainDE">View On GitHub</a>
 </div>
 
-# About project
+## About project
 The aim of this project is to create a lightweight desktop environment for GNU/Linux. Currently we use C++/Qt for developing plainDE, but we will consider integrating other languages if required.
 
-# Screenshots
+## Screenshots
 <img src="scr/scr-0.0.2.png" width=640 height=480>
 
-# Install
+## Install
 
 Install dependencies: qt6-base noto-fonts-emoji polkit ttf-opensans adwaita-icon-theme make alsa-utils
 
@@ -34,6 +34,13 @@ plainPanel
 **Note** Use setxkbmap to change your keyboard layout.
 
 
-# Bugs/ideas/contributing
+## Bugs/ideas/contributing
 Found a bug or would like to contribute to the project?<br>
 See <a href="https://plainde.org/pages/get-involved">Get Involved</a> page.
+
+## Our social media
+
+- Telegram: <a href="https://t.me/plainDENews">On English</a>, <a href="https://t.me/plainDENewsRUS">На Русском</a>
+- Twitter: <a href="https://twitter.com/plain_DE">@plain_DE</a>
+- Matrix chat: <a href="https://matrix.to/#/#plainde:matrix.org">#plainde:matrix.org</a>
+- VK: <a href="https://vk.com/plainDE">plainDE</a>

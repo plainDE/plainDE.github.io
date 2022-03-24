@@ -2,7 +2,7 @@
 <div align=center>
   <img src="https://raw.githubusercontent.com/plainDE/.github/main/profile/logo.png" width=256 height=256>
   
-  *Lightweight. Rapid. Plain.*
+  <i>Lightweight. Rapid. Plain.</i>
   
   <a href="{{ site.github.repository_url }}">View On GitHub</a>
 </div>

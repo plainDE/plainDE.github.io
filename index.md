@@ -45,7 +45,7 @@ See <a href="https://plainde.org/pages/get-involved">Get Involved</a> page.
 
 ## Our social media
 
-- Telegram: <a href="https://t.me/plainDENews">On English</a>, <a href="https://t.me/plainDENewsRUS">На Русском</a>
+- Telegram: <a href="https://t.me/plainDENews">In English</a>, <a href="https://t.me/plainDENewsRUS">На Русском</a>
 - Twitter: <a href="https://twitter.com/plain_DE">@plain_DE</a>
 - Matrix chat: <a href="https://matrix.to/#/#plainde:matrix.org">#plainde:matrix.org</a>
 - VK: <a href="https://vk.com/plainDE">plainDE</a>

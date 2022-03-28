@@ -35,6 +35,10 @@ plainPanel
 **Note** Use setxkbmap to change your keyboard layout.
 
 
+## Customizing
+There is currently no control center app, but you can edit ~/.config/plainDE/config.json.
+
+
 ## Bugs/ideas/contributing
 Found a bug or would like to contribute to the project?<br>
 See <a href="https://plainde.org/pages/get-involved">Get Involved</a> page.

@@ -17,7 +17,7 @@ The aim of this project is to create a lightweight desktop environment for GNU/L
 
 ## Install
 
-Install dependencies: qt6-base noto-fonts-emoji polkit ttf-opensans adwaita-icon-theme make alsa-utils
+Install dependencies: qt6-base noto-fonts-emoji polkit ttf-opensans adwaita-icon-theme make alsa-utils kwindowsystem
 
   
 ```sh

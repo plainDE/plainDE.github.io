@@ -23,8 +23,8 @@ Install dependencies: qt6-base noto-fonts-emoji polkit ttf-opensans adwaita-icon
 ```sh
 git clone https://github.com/plainDE/plainInstaller
 cd plainInstaller
-chmod +x install.sh
-./install.sh
+chmod +x installer.sh
+./installer.sh
 ```
   
 Now you can add plainPanel to your OpenBox/FluxBox/... autostart and enjoy!

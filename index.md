@@ -17,7 +17,7 @@ The aim of this project is to create a lightweight desktop environment for GNU/L
 
 ## Install
 
-Install dependencies: qt6-base noto-fonts-emoji polkit ttf-opensans adwaita-icon-theme make alsa-utils kwindowsystem
+Install dependencies: qt6-base noto-fonts-emoji polkit ttf-opensans make alsa-utils kwindowsystem
 
   
 ```sh
@@ -37,6 +37,7 @@ plainPanel
 
 ## Customizing
 There is currently no control center app, but you can edit ~/.config/plainDE/config.json.
+**Attention**. We can't use Adwaita icons as default anymore since GNOME 42 (Adwaita does not follow the freedesktop.org specifications). Please use Mint-Y or other icon pack.
 
 
 ## Bugs/ideas/contributing

@@ -45,7 +45,6 @@ Found a bug or would like to contribute to the project?<br>
 See <a href="https://plainde.org/pages/get-involved">Get Involved</a> page.
 
 ## Our social media
-
 - Telegram: <a href="https://t.me/plainDENews">In English</a>, <a href="https://t.me/plainDENewsRUS">На Русском</a>
 - Twitter: <a href="https://twitter.com/plain_DE">@plain_DE</a>
 - Matrix chat: <a href="https://matrix.to/#/#plainde:matrix.org">#plainde:matrix.org</a>

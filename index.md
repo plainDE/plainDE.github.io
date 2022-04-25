@@ -32,7 +32,7 @@ Now you can add plainPanel to your OpenBox/FluxBox/... autostart and enjoy!
 plainPanel
 ```
 
-**Note** Use setxkbmap to change your keyboard layout.
+**Note**. Use setxkbmap to change your keyboard layout.
 
 
 ## Customizing

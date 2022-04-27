@@ -13,7 +13,7 @@
 The aim of this project is to create a lightweight desktop environment for GNU/Linux. Currently we use C++/Qt for developing plainDE, but we will consider integrating other languages if required.
 
 ## Screenshots
-<img src="scr/scr-0.0.3a.png" width="640">
+<img src="scr/scr-0.0.4.png" width="640">
 
 ## Install
 Install dependencies: qt6-base noto-fonts-emoji polkit ttf-opensans make alsa-utils kwindowsystem

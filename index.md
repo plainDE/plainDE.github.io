@@ -36,7 +36,7 @@ plainPanel
 
 ## Customizing
 There is currently no control center app, but you can edit ~/.config/plainDE/config.json.<br><br>
-**Attention**. We can't use Adwaita icons as default anymore since GNOME 42 release (Adwaita does not follow the freedesktop.org specifications). Please use Mint-Y or other icon pack.
+**Attention**. We can't use Adwaita icons as default anymore since GNOME 42 release (Adwaita does not follow the freedesktop.org specifications). We recommend using Mint-Y icon pack.
 
 
 ## Bugs/ideas/contributing

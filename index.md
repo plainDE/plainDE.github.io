@@ -35,7 +35,7 @@ plainPanel
 
 
 ## Customizing
-Now control center app (v0.1 and upper)!
+Now control center app (v0.1 and upper)!<br>
 **Attention**. We can't use Adwaita icons as default anymore since GNOME 42 release (Adwaita does not follow the freedesktop.org specifications). We recommend using Mint-Y icon pack.
 
 

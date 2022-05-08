@@ -1,4 +1,3 @@
-# Install
 ## On Arch Linux (or based on it)
 
 Install aur packages: `plainpanel`, `plaincontrolcenter`, `plainabout`

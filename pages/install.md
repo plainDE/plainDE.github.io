@@ -6,7 +6,7 @@ filename: install.md
 
 ## On Arch Linux (or based on it)
 
-Install aur packages: `plainpanel`, `plaincontrolcenter`, `plainabout`
+Install `plainde-meta` AUR package.
 
 ## On any other linux distro
 

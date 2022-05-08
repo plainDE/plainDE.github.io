@@ -15,24 +15,9 @@ The aim of this project is to create a lightweight desktop environment for GNU/L
 ## Screenshots
 <img src="scr/scr0.1.1.png" width="640">
 
-## Install
-Install dependencies: qt6-base noto-fonts-emoji polkit ttf-opensans make alsa-utils kwindowsystem
+# Install
 
-  
-```sh
-git clone https://github.com/plainDE/plainInstaller
-cd plainInstaller
-chmod +x installer.sh
-./installer.sh
-```
-  
-Now you can add plainPanel to your OpenBox/FluxBox/... autostart and enjoy!
-```
-plainPanel
-```
-
-**Note**. Use setxkbmap to change your keyboard layout.
-
+See (install)[/pages/install] page
 
 ## Customizing
 Now control center app (v0.1 and upper)!<br>

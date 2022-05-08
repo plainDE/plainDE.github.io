@@ -17,7 +17,7 @@ The aim of this project is to create a lightweight desktop environment for GNU/L
 
 # Install
 
-See (install)[/pages/install] page
+See [install](/pages/install) page
 
 ## Customizing
 Now control center app (v0.1 and upper)!<br>

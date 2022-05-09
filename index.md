@@ -17,7 +17,7 @@
 The aim of this project is to create a lightweight desktop environment for GNU/Linux. Currently we use C++/Qt for developing plainDE, but we will consider integrating other languages if required.
 
 ## Screenshots
-<img src="scr/scr0.1.1.png" width="640">
+<img src="scr/scr0.1.2a.png" width="640">
 
 # Install
 See [install](/pages/install) page

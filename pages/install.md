@@ -4,21 +4,17 @@ layout: default
 filename: install.md
 --- 
 
-## On Arch Linux (or based on it)
+## AUR
+Install <a href="https://aur.archlinux.org/packages/plainde-meta">plainde-meta</a> package
 
-Install `plainde-meta` AUR package.
+## Manual installation
+Install dependencies: ```qt6-base``` ```noto-fonts-emoji``` ```polkit``` ```ttf-opensans``` ```make``` ```alsa-utils``` ```kwindowsystem```
 
-## On any other linux distro
-
-Install dependencies: qt6-base noto-fonts-emoji polkit ttf-opensans make alsa-utils kwindowsystem
-
+```git clone https://github.com/plainDE/plainInstaller```<br>
+```cd plainInstaller```<br>
+```chmod +x installer.sh```<br>
+```./installer.sh```<br>
   
-```sh
-git clone https://github.com/plainDE/plainInstaller
-cd plainInstaller
-chmod +x installer.sh
-./installer.sh
-```
 
 # Run plainPanel
 
@@ -26,5 +22,3 @@ Now you can add plainPanel to your OpenBox/FluxBox/... autostart and enjoy!
 ```
 plainPanel
 ```
-
-**Note**. Use setxkbmap to change your keyboard layout.

@@ -17,13 +17,15 @@
 The aim of this project is to create a lightweight desktop environment for GNU/Linux. Currently we use C++/Qt and Python for developing plainDE, but we will consider integrating other languages if required.
 
 ## Screenshots
-<img src="scr/scr0.1.2a.png" width="640">
+<img src="scr/scr0.1.3.png" width="640">
 
 # Install
 See [install](/pages/install) page
 
 ## Customizing
 Now control center app (v0.1 and upper)!<br>
+### Samples of desktops
+<img src="scr/tweaks/tweak1.png" width="480">
 
 ## Miscellaneous
 **Note**. We can't use Adwaita icons as default anymore since GNOME 42 release (Adwaita does not follow the freedesktop.org specifications). We recommend using Mint-Y icon pack.<br>

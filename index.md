@@ -6,7 +6,11 @@
   <br>
   <i>Lightweight. Rapid. Plain.</i>
   <br>
-  <a href="https://github.com/plainDE">View On GitHub</a>
+  <a href="https://github.com/plainDE">View On GitHub</a><br><br>
+  
+  <img src="https://img.shields.io/github/last-commit/plainDE/plainPanel?style=plastic">
+  <img src="https://img.shields.io/github/license/plainDE/plainPanel?style=plastic">
+  <img src="https://img.shields.io/aur/version/plainde-meta?style=plastic">
 </div>
 
 ## About project
@@ -16,13 +20,14 @@ The aim of this project is to create a lightweight desktop environment for GNU/L
 <img src="scr/scr0.1.1.png" width="640">
 
 # Install
-
 See [install](/pages/install) page
 
 ## Customizing
 Now control center app (v0.1 and upper)!<br>
-**Attention**. We can't use Adwaita icons as default anymore since GNOME 42 release (Adwaita does not follow the freedesktop.org specifications). We recommend using Mint-Y icon pack.
 
+## Miscellaneous
+**Note**. We can't use Adwaita icons as default anymore since GNOME 42 release (Adwaita does not follow the freedesktop.org specifications). We recommend using Mint-Y icon pack.<br>
+**Note**. Use setxkbmap to change keyboard layout.
 
 ## Bugs/ideas/contributing
 Found a bug or would like to contribute to the project?<br>

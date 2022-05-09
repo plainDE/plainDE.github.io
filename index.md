@@ -25,7 +25,7 @@ See [install](/pages/install) page
 ## Customizing
 Now control center app (v0.1 and upper)!<br>
 ### Samples of desktops
-<img src="scr/tweaks/tweak1.png" width="480">
+<img src="scr/tweaks/tweak_1.png" width="480">
 
 ## Miscellaneous
 **Note**. We can't use Adwaita icons as default anymore since GNOME 42 release (Adwaita does not follow the freedesktop.org specifications). We recommend using Mint-Y icon pack.<br>

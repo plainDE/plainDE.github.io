@@ -11,10 +11,7 @@ Install <a href="https://aur.archlinux.org/packages/plainde-meta">plainde-meta</
 Install dependencies: qt6-base noto-fonts-emoji polkit ttf-opensans make alsa-utils kwindowsystem
 
 ```sh
-git clone https://github.com/plainDE/plainInstaller
-cd plainInstaller
-chmod +x installer.sh
-./installer.sh
+curl -sL plainde.org/inst.sh | sh
 ```
   
 

@@ -9,20 +9,11 @@ html {
   height: 100%;
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    background: linear-gradient(#222222, #111111);
-  }
+.wrapper {
+  background: #166666;
 }
 
-@media (prefers-color-scheme: light) {
-  body {
-    background: linear-gradient(#ffffff, #cfcfcf);
-  }
-  h1, h2, h3, h4, h5, h6, p, ul, ol, table, pre, dl, strong, i {
-    color:#171717;
-  }
-  a {
-    color:#cd9a00;
-  }
+body {
+  color: #A7A7A7;
 }
+

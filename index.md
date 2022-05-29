@@ -1,20 +1,15 @@
 ---
   layout: home
 ---
+
+## About project
+The aim of this project is to create a lightweight desktop environment for GNU/Linux. Currently we use C++/Qt and Python for developing plainDE, but we will consider integrating other languages if required.
+
 <div align=center>
-  <img src="https://raw.githubusercontent.com/plainDE/.github/main/profile/logo.png" width=256 height=256>
-  <br>
-  <i>Lightweight. Rapid. Plain.</i>
-  <br>
-  <a href="https://github.com/plainDE">View On GitHub</a><br><br>
-  
   <img src="https://img.shields.io/github/last-commit/plainDE/plainPanel?style=plastic">
   <img src="https://img.shields.io/github/license/plainDE/plainPanel?style=plastic">
   <img src="https://img.shields.io/aur/version/plainde-meta?style=plastic">
 </div>
-
-## About project
-The aim of this project is to create a lightweight desktop environment for GNU/Linux. Currently we use C++/Qt and Python for developing plainDE, but we will consider integrating other languages if required.
 
 ## Screenshots
 <img src="scr/scr0.1.3.png" width="640">

@@ -25,6 +25,10 @@ body {
 
 header {
   background: #222222;
-  text-shadow: none;
-  box-shadow: none;
+  a {
+    text-shadow: none;
+  }
+  ul {
+    box-shadow: none;
+  }
 }

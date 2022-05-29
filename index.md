@@ -14,7 +14,7 @@ The aim of this project is to create a lightweight desktop environment for GNU/L
 ## Screenshots
 <img src="scr/scr0.1.3.png" width="640">
 
-# Install
+## Install
 See [install](/pages/install) page
 
 ## Customizing

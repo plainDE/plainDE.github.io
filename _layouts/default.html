@@ -20,12 +20,24 @@
   <body>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <h1><a href="https://plainde.org">plainDE</a></h1>
+        <h1><a href="/">plainDE</a></h1>
         <p>Lightweight. Rapid. Plain.</p>
-        <p class="view"><a href="https://github.com/plainDE">View on GitHub <small>{{ github_name }}</small></a></p>
-        <ul>
-          <li><a href="https://github.com/plainDE">View On <strong>GitHub</strong></a></li>
-        </ul>
+        <nav>
+          <p class="view"><a href="https://github.com/plainDE">View on GitHub</a></p>
+          <p class="view"><a href="/pages/install">How to install</a></p>
+          <p class="view"><a href="/pages/get-involved">Send feedback</a></p>
+          <p class="view"><a href="https://github.com/plainDE/docs/wiki">Read wiki</a></p>
+          <p class="view"><a href="/gallery">View gallery</a></p>
+        </nav>
+        <nav>
+          <ul>
+            <li><a href="/pages/install">How to<strong>Install</strong></a></li>
+            <li><a href="/pages/get-involved">Send<strong>Feedback</strong></a></li>
+            <li><a href="https://github.com/plainDE/docs/wiki">Read<strong>Wiki</strong></a></li>
+            <li><a href="/gallery">View<strong>Gallery</strong></a></li>
+            <li><a href="https://github.com/plainDE">Visit<strong>GitHub</strong></a></li>
+          </ul>
+        </nav>
      </header>
       <section>
 

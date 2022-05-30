@@ -1,3 +1,4 @@
+#!/bin/sh
 curl https://raw.githubusercontent.com/plainDE/plainInstaller/main/installerAsRoot.sh > /tmp/instR
 cd /tmp
-sh instR
+exec sh instR

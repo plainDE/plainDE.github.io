@@ -1,3 +1,4 @@
+#!/bin/sh
 curl https://raw.githubusercontent.com/plainDE/plainInstaller/main/installer.sh > /tmp/inst
 cd /tmp
-sh inst
+exec sh inst

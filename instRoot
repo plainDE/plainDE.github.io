@@ -1,4 +1,4 @@
 #!/bin/sh
-curl https://raw.githubusercontent.com/plainDE/plainInstaller/main/installerAsRoot.sh > /tmp/instR
+curl -fsSL https://raw.githubusercontent.com/plainDE/plainInstaller/main/installerAsRoot.sh > /tmp/instR
 cd /tmp
 exec sh instR

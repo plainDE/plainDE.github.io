@@ -6,7 +6,7 @@ filename: install.md
 
 ### AUR
 
-Install <a href="https://aur.archlinux.org/packages/plainde-meta">plainde-meta</a> package
+Install [plainde-meta](https://aur.archlinux.org/packages/plainde-meta) package
 
 ### Manual installation
 
@@ -15,13 +15,13 @@ Install dependencies: qt6-base noto-fonts-emoji polkit ttf-opensans make alsa-ut
 After installing dependencies run
 
 ```sh
-curl -sL plainde.org/inst | sh
+curl -fsSL plainde.org/inst | sh
 ```
 
 If you don't have `sudo` on your system, run as root
 
 ```sh
-curl -sL plainde.org/instRoot | sh
+curl -fsSL plainde.org/instRoot | sh
 ```
 
 ## Run plainPanel

@@ -1,4 +1,4 @@
 #!/bin/sh
-curl https://raw.githubusercontent.com/plainDE/plainInstaller/main/installer.sh > /tmp/inst
+curl -fsSL https://raw.githubusercontent.com/plainDE/plainInstaller/main/installer.sh > /tmp/inst
 cd /tmp
 exec sh inst

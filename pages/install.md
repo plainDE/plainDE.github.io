@@ -15,13 +15,13 @@ Install dependencies: qt6-base noto-fonts-emoji polkit ttf-opensans make alsa-ut
 After installing dependencies run
 
 ```sh
-curl -fsSL plainde.org/inst | sh
+sh -c "$(curl -fsSL plainde.org/inst)"
 ```
 
 If you don't have `sudo` on your system, run as root
 
 ```sh
-curl -fsSL plainde.org/instRoot | sh
+sh -c "$(curl -fsSL plainde.org/instRoot)"
 ```
 
 ## Run plainPanel

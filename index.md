@@ -16,13 +16,10 @@ The aim of this project is to create a lightweight desktop environment for GNU/L
 
 <img src="scr/scr0.1.3.png" width="640">
 
-## Install
-
-See [install](/pages/install) page
 
 ## Customizing
 
-Now control center app (v0.1 and upper)!<br>
+Now control center app (v0.1 and upper)!
 
 ### Samples of desktops
 
@@ -32,12 +29,14 @@ More screenshots could be found on [Gallery](/gallery) page.
 
 ## Miscellaneous
 
-**Note**. We can't use Adwaita icons as default anymore since GNOME 42 release (Adwaita does not follow the freedesktop.org specifications). We recommend using Mint-Y icon pack.<br>
+**Note**. We can't use Adwaita icons as default anymore since GNOME 42 release (Adwaita does not follow the freedesktop.org specifications). We recommend using Mint-Y icon pack.
+
 **Note**. Use setxkbmap to change keyboard layout.
 
 ## Bugs/ideas/contributing
 
-Found a bug or would like to contribute to the project?<br>
+Found a bug or would like to contribute to the project?
+
 See <a href="https://plainde.org/pages/get-involved">Get Involved</a> page.
 
 ## Our social media

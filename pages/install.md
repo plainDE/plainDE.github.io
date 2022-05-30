@@ -15,19 +15,19 @@ Install dependencies: qt6-base noto-fonts-emoji polkit ttf-opensans make alsa-ut
 After installing dependencies run
 
 ```sh
-sh -c "$(curl -fsSL plainde.org/inst)"
+sh -c "$(curl -fsSL plainde.org/install)"
 ```
 
-If you don't have `sudo` on your system, run as root
+If you don't have **sudo** on your system, run as root
 
 ```sh
-sh -c "$(curl -fsSL plainde.org/instRoot)"
+sh -c "$(curl -fsSL plainde.org/installAsRoot)"
 ```
 
 ## Run plainPanel
 
-Now you can add plainPanel to your OpenBox/FluxBox/... autostart and enjoy!<br>
+Now you can add plainPanel to your OpenBox/FluxBox/... autostart and enjoy!
 
-```
+```sh
 plainPanel
 ```

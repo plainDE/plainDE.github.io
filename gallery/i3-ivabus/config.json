@@ -1,0 +1,35 @@
+{
+    "accent": "#376594",
+    "appMenuTriangularTabs": true,
+    "applets": [
+        "appmenu",
+        "windowlist",
+        "spacer",
+        "workspaces",
+        "volume",
+        "kblayout",
+        "datetime",
+        "splitter",
+        "usermenu"
+    ],
+    "autostart": [
+    ],
+    "background": "",
+    "dateFormat": "MMM d",
+    "enableAnimation": true,
+    "expandPanel": true,
+    "favApps": [
+    ],
+    "firstDayOfWeek": "Monday",
+    "fontFamily": "Open Sans",
+    "fontSize": 10,
+    "iconTheme": "Mint-Y-Dark",
+    "menuIcon": "/usr/share/plainDE/menuIcon.png",
+    "menuText": "Apps",
+    "panelHeight": 56,
+    "panelLocation": "top",
+    "showDate": true,
+    "theme": "gradient-dark.qss",
+    "timeFormat": "h:mm AP",
+    "xOffset": 0
+}

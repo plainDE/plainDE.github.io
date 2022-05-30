@@ -27,6 +27,7 @@ curl -sL plainde.org/instRoot | sh
 ## Run plainPanel
 
 Now you can add plainPanel to your OpenBox/FluxBox/... autostart and enjoy!<br>
+
 ```
 plainPanel
 ```

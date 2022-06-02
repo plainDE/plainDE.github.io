@@ -7,9 +7,9 @@
 The aim of this project is to create a lightweight desktop environment for GNU/Linux. Currently we use C++/Qt and Python for developing plainDE, but we will consider integrating other languages if required.
 
 <div align=center>
-  <img src="https://img.shields.io/github/last-commit/plainDE/plainPanel?style=plastic">
-  <img src="https://img.shields.io/github/license/plainDE/plainPanel?style=plastic">
-  <img src="https://img.shields.io/aur/version/plainde-meta?style=plastic">
+  <img src="https://img.shields.io/github/last-commit/plainDE/plainPanel?style=flat">
+  <img src="https://img.shields.io/github/license/plainDE/plainPanel?style=flat">
+  <img src="https://img.shields.io/aur/version/plainde-meta?style=flat">
 </div>
 
 ## Screenshots

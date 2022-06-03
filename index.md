@@ -9,7 +9,7 @@ The aim of this project is to create a lightweight desktop environment for GNU/L
 <div align=center>
   <img src="https://img.shields.io/github/last-commit/plainDE/plainPanel?style=flat">
   <img src="https://img.shields.io/github/license/plainDE/plainPanel?style=flat">
-  <img src="https://img.shields.io/aur/version/plainde-meta?style=flat">
+  <img src="https://img.shields.io/aur/version/plainpanel?style=flat">
 </div>
 
 ## Screenshots

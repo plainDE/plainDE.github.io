@@ -10,7 +10,7 @@ Install [plainde-meta](https://aur.archlinux.org/packages/plainde-meta) package
 
 ### Manual installation
 
-Install dependencies: qt6-base noto-fonts-emoji polkit ttf-opensans make alsa-utils kwindowsystem
+Install dependencies: qt6-base noto-fonts-emoji polkit ttf-opensans make alsa-utils kwindowsystem python3 xcompmgr
 
 After installing dependencies run
 
@@ -18,15 +18,14 @@ After installing dependencies run
 sh -c "$(curl -fsSL plainde.org/install)"
 ```
 
-If you don't have **sudo** on your system, run as root
-
+or run this as root
 ```sh
 sh -c "$(curl -fsSL plainde.org/installAsRoot)"
 ```
 
 ## Run plainPanel
 
-Now you can add plainPanel to your OpenBox/FluxBox/... autostart and enjoy!
+Now you can add plainPanel (+ xcompmgr, if opacity is needed) to your OpenBox/FluxBox/... autostart and enjoy!
 
 ```sh
 plainPanel

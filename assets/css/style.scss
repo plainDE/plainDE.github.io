@@ -4,9 +4,7 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css?family=Ubuntu:300italic,700italic,300,700');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
-body {
-  font:14px/1.5 Ubuntu, "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
+
 
 html {
   background: #222222;
@@ -23,7 +21,7 @@ section {
 }
 
 body {
-  p, ul, li, h2, h3, h4, h5, h6 {
+  p, ul, li, h1, h2, h3, h4, h5, h6 {
     color: #A7A7A7;
   }
   a {
@@ -32,6 +30,7 @@ body {
   strong {
     color: #a7a7a7;
   }
+  font: Ubuntu, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 header {

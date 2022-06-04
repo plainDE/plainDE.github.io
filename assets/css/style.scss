@@ -2,6 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300italic,700italic,300,700');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+body {
+  font:14px/1.5 Ubuntu, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 
 html {
   background: #222222;
@@ -42,4 +47,8 @@ header {
 
 pre {
   background: #222222;
+}
+
+code {
+  font:16px/1.5 'Ubuntu Mono', monospace;
 }

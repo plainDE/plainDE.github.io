@@ -7,9 +7,11 @@
 The aim of this project is to create a lightweight desktop environment for GNU/Linux. Currently we use C++/Qt and Python for developing plainDE, but we will consider integrating other languages if required.
 
 <div align=center>
-  <img src="https://img.shields.io/github/last-commit/plainDE/plainPanel?style=flat">
+  <img src="https://img.shields.io/github/last-commit/plainDE/plainPanel?style=flat">>
   <img src="https://img.shields.io/github/license/plainDE/plainPanel?style=flat">
-  <img src="https://img.shields.io/aur/version/plainpanel?style=flat">
+  <a href="https://repology.org/project/plainpanel/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/plainpanel.svg" alt="Packaging status" align="right">
+  </a>  
 </div>
 
 ## Screenshots

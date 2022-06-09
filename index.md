@@ -17,6 +17,7 @@ The aim of this project is to create a lightweight desktop environment for GNU/L
     </a>
   </div>
 </div>
+<br>
 
 ## Screenshots
 

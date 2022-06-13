@@ -4,6 +4,10 @@ layout: default
 filename: install.md
 --- 
 
+<a href="https://repology.org/project/plainpanel/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/plainpanel.svg" alt="Packaging status" align="right">
+</a>
+
 ### AUR
 
 Install [plainde-meta](https://aur.archlinux.org/packages/plainde-meta) package

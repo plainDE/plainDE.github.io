@@ -3,7 +3,7 @@ title: "Gallery"
 layout: default
 ---
 
-On this page, you can see various user screenshots of plainDE (like on r/unixporn).
+On this page you can see various user screenshots of plainDE (like on r/unixporn).
 
 To submit your own screenshots, make a pull request with addition to main table with screenshots and instructions to reconstruct your setup. Look at existing screenshots, for example.
 

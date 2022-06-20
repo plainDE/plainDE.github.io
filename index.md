@@ -2,7 +2,7 @@
   layout: home
 ---
 
-<img src="scr/scr-0.1.4.png" width="640">
+<img src="scr/scr-0.2.png" width="640">
 
 
 ## About project

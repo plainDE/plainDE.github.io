@@ -3,7 +3,7 @@
 ---
 
 <img src="scr/scr-0.2.1.png" width="640">
-
+<a href="/pages/version-history">View plainDE version history...</a>
 
 ## About project
 

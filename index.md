@@ -2,7 +2,7 @@
   layout: home
 ---
 
-<img src="scr/scr-0.2.png" width="640">
+<img src="scr/scr-0.2.1.png" width="640">
 
 
 ## About project
@@ -23,8 +23,6 @@ More screenshots could be found on [Gallery](/gallery) page.
 ## Miscellaneous
 
 **Note**. We can't use Adwaita icons as default anymore since GNOME 42 release (Adwaita does not follow the freedesktop.org specifications). We recommend using Mint-Y icon pack.
-
-**Note**. Use setxkbmap to change keyboard layout.
 
 ## Bugs/ideas/contributing
 

@@ -73,4 +73,10 @@
     <td><img src="../scr/scr-0.2.1.png" width="350"></td>
     <td>13.08.2022</td>
   </tr>
+  
+  <tr>
+    <td>0.3</td>
+    <td><img src="../scr/scr-0.3.png" width="350"></td>
+    <td>19.09.2022</td>
+  </tr>
 </table>

@@ -2,7 +2,7 @@
   layout: home
 ---
 
-<img src="scr/scr-0.4.png" width="640">
+<img src="scr/scr-0.4.1.png" width="640">
 <a href="/pages/version-history">View plainDE version history...</a>
 
 ## About project

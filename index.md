@@ -15,10 +15,7 @@ The aim of this project is to create a lightweight desktop environment for GNU/L
 Now control center app (v0.1 and upper)!
 
 ### Samples of desktops
-
-<img src="scr/tweaks/tweak_1.png" width="480">
-
-More screenshots could be found on [Gallery](/gallery) page.
+Screenshots of some customizations can be found on [Gallery](/gallery) page.
 
 ## Miscellaneous
 

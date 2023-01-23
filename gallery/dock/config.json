@@ -1,0 +1,63 @@
+{
+    "accent": "#376594",
+    "appMenuTriangularTabs": true,
+    "autostart": [
+    ],
+    "background": "",
+    "configVersion": "0.4.2",
+    "dateFormat": "MMM d",
+    "enableAnimation": true,
+    "favApps": [
+    ],
+    "firstDayOfWeek": 1,
+    "fontFamily": "Open Sans",
+    "fontSize": 10,
+    "iconTheme": "Mint-Y-Legacy-Dark-Grey",
+    "ipIfname": "enp1s0",
+    "kbLayoutToggle": "grp:win_space_toggle",
+    "kbLayouts": "us,ua",
+    "menuIcon": "/usr/share/plainDE/menuIcon.png",
+    "menuText": "Apps",
+    "panel1": {
+        "applets": [
+            "appmenu",
+            "windowlist",
+            "spacer",
+            "battery",
+            "mpris",
+            "localipv4",
+            "workspaces",
+            "volume",
+            "kblayout",
+            "datetime",
+            "splitter",
+            "usermenu"
+        ],
+        "expand": true,
+        "height": 28,
+        "launcherIconSize": 22,
+        "location": "top",
+        "opacity": 0.75,
+        "xOffset": 0
+    },
+    "panel2": {
+        "applets": [
+            "launcher:terminator.desktop",
+            "launcher:notepadqq.desktop",
+            "launcher:pcmanfm.desktop",
+            "launcher:firefox.desktop",
+            "launcher:galculator.desktop",
+            "launcher:org.qt-project.qtcreator.desktop"
+        ],
+        "expand": false,
+        "height": 50,
+        "launcherIconSize": 32,
+        "location": "bottom",
+        "opacity": 0.75,
+        "xOffset": 370
+    },
+    "showDate": true,
+    "theme": "gradient-dark.qss",
+    "timeFormat": "h:mm AP",
+    "useCountryFlag": true
+}

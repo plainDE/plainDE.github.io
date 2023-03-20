@@ -97,4 +97,10 @@
     <td><img src="../scr/scr-0.4.2.png" width="350"></td>
     <td>31.12.2022</td>
   </tr>
+  
+  <tr>
+    <td><a href="https://github.com/plainDE/plainPanel/releases/tag/0.5">0.5</a></td>
+    <td><img src="../scr/scr-0.5.png" width="350"></td>
+    <td>20.03.2023</td>
+  </tr>
 </table>

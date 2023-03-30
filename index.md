@@ -30,6 +30,4 @@ See <a href="https://plainde.github.io/pages/get-involved">Get Involved</a> page
 
 ## Our social media
 
-- Telegram: <a href="https://t.me/plainDENews">In English</a>, <a href="https://t.me/plainDENewsRU">На русском</a>
-- Mastodon: <a rel="me" href="https://social.treehouse.systems/@plainDE">@plainDE@treehouse.systems</a>
-- Matrix chat: <a href="https://matrix.to/#/#plainde:matrix.org">#plainde:matrix.org</a>
+- Telegram: <a href="https://t.me/plainDE_project">@plainDE_project</a>

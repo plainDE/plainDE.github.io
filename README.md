@@ -1,4 +1,4 @@
-# [plainDE.org](plainde.org) website
+# [plainDE](https://plainDE.github.io/) website
 
 The theme is based on the "Modernist", but with slightly different colors and layout for the main and secondary pages.
 

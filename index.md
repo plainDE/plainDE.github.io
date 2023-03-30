@@ -2,7 +2,7 @@
   layout: home
 ---
 
-<img src="scr/scr-0.5.png" width="640">
+<img src="scr/scr0.5.png" width="640">
 <a href="/pages/version-history">View plainDE version history...</a><br>
 <a href="https://github.com/plainDE/plainPanel">View source code...</a>
 
@@ -26,11 +26,10 @@ Screenshots of some customizations can be found on [Gallery](/gallery) page.
 
 Found a bug or would like to contribute to the project?
 
-See <a href="https://plainde.org/pages/get-involved">Get Involved</a> page.
+See <a href="https://plainde.github.io/pages/get-involved">Get Involved</a> page.
 
 ## Our social media
 
 - Telegram: <a href="https://t.me/plainDENews">In English</a>, <a href="https://t.me/plainDENewsRU">На русском</a>
 - Mastodon: <a rel="me" href="https://social.treehouse.systems/@plainDE">@plainDE@treehouse.systems</a>
 - Matrix chat: <a href="https://matrix.to/#/#plainde:matrix.org">#plainde:matrix.org</a>
-- VK: <a href="https://vk.com/plainDE">plainDE</a>

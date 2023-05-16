@@ -1,4 +1,4 @@
-# Bugtracker
+# 🐞 Bugtracker
 
 <table>
   <tr>

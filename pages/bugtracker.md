@@ -9,6 +9,16 @@
     <td>Affected versions</td>
     <td>Author</td>
   </tr>
+
+  <tr>
+    <td><a href="https://github.com/plainDE/plainPanel/issues/30">30</a></td>
+    <td>plainPanel</td>
+    <td>plainPanel does not reserve space on screen and does not move on other workspaces</td>
+    <td>Bug</td>
+    <td>Every</td>
+    <td><a href="https://github.com/thm-unix">thm-unix</a></td>
+    
+  </tr>
   
   <tr>
     <td><a href="https://github.com/plainDE/plainPanel/issues/29">29</a></td>

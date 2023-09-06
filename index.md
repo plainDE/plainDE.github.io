@@ -2,7 +2,7 @@
   layout: home
 ---
 
-<img src="scr/scr-0.6.3.png" width="640">
+<img src="scr/scr-0.6.3.png" width="853">
 <a href="/pages/version-history">View plainDE version history...</a><br>
 <a href="https://github.com/plainDE/plainPanel">View source code...</a>
 

@@ -1,5 +1,3 @@
-# 🐞 Bugtracker
-
 <table>
   <tr>
     <td>#</td>
@@ -27,16 +25,7 @@
     <td>Every</td>
     <td><a href="https://github.com/thm-unix">thm-unix</a></td>
   </tr>
-  
-  <tr>
-    <td><a href="https://github.com/plainDE/plainPanel/issues/8">8</a></td>
-    <td>plainPanel</td>
-    <td>Doesn't handle many windows</td>
-    <td>Bug</td>
-    <td>0.0.3a & upper</td>
-    <td><a href="https://github.com/thm-unix">thm-unix</a></td>
-  </tr>
-  
+
   <tr>
     <td><a href="https://github.com/plainDE/plainPanel/issues/1">1</a></td>
     <td>plainPanel</td>

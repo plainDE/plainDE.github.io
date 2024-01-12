@@ -139,4 +139,10 @@
     <td><img src="../scr/scr-0.6.3.png" width="350"></td>
     <td>06.09.2023</td>
   </tr>
+
+  <tr>
+    <td><a href="https://github.com/plainDE/plainPanel/releases/tag/0.7">0.7</a></td>
+    <td><img src="../scr/scr-0.7.png" width="350"></td>
+    <td>12.01.2024</td>
+  </tr>
 </table>

@@ -1,0 +1,23 @@
+Package: plainAbout
+Version: 0.7.1
+Architecture: amd64
+Maintainer: thm-unix <thm.unix@gmail.com>
+Depends: qtbase5-dev
+Filename: ./plainAbout_0.7.1-1_amd64.deb
+Size: 12904
+MD5sum: e2ff22b9cdb47ab85645705832f58443
+SHA1: 2a19a1eb04287b87330c59a03eeaa2810f3e30e9
+SHA256: 85e46e2ef7652a3cc0ed4cb79c62f1aa959e55978fbd7498e004681a2e0b183c
+Description: plainDE About Window
+
+Package: plainArtwork
+Version: 0.7.1
+Architecture: amd64
+Maintainer: thm-unix <thm.unix@gmail.com>
+Filename: ./plainArtwork_0.7.1-1_amd64.deb
+Size: 355556
+MD5sum: 3b9f15839e7052cc4845f8e83d4982be
+SHA1: 83dbc48b0c70b448a76091310352b6e1eaa1c759
+SHA256: e53eace3aed8add52cc283da23079267a3f5ee0223f0210f5a7df8dc837f8e0a
+Description: plainDE Artwork
+

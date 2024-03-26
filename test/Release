@@ -1,0 +1,19 @@
+Architectures: amd64
+Codename: bookworm
+Components: main
+Date: Tue, 26 Mar 2024 13:51:27 +0000
+Label: plainDE
+Origin: plainDE APT Repository
+Suite: unstable
+MD5Sum:
+ da9d3487eeb42b53c328c4a607f66db3             2416 Packages
+ a795d0803410ca347433c312778f8b0f              157 Release
+SHA1:
+ 3a6691579d485aca257926b4810b427fd4dee35c             2416 Packages
+ a9daa590a03f99039140f53c247e61f1019fbf91              157 Release
+SHA256:
+ 27506edc34b44daee79bb4cdaac62872ca6c3aeeea692e7b9a84773b88c249b6             2416 Packages
+ 836f75e121a99396d4e37a5049c41b64037f339574f6aafde5526c1da3c7b116              157 Release
+SHA512:
+ 35afb578512eeb9439b912de283d26bfcae12e1d544e13df778e4997fcb0c9e3c81883bbe05d799aa054a9ebeeccc501a00d0332368a030173879da1299b1e61             2416 Packages
+ 52d5d3b98cbeb5e8b01b7aa96b32ed1a831d6dcd5c589968d80b3c4e61ee6d598ceabbdace294483f6a46f033896d01535ba4801f4732a8f40be055688c4cc44              157 Release

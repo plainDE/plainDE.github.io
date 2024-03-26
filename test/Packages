@@ -2,12 +2,12 @@ Package: plainAbout
 Version: 0.7.1
 Architecture: amd64
 Maintainer: thm-unix <thm.unix@gmail.com>
-Depends: qtbase5-dev
+Depends: qtbase5-dev, plainbase
 Filename: ./plainAbout_0.7.1-1_amd64.deb
-Size: 12904
-MD5sum: e2ff22b9cdb47ab85645705832f58443
-SHA1: 2a19a1eb04287b87330c59a03eeaa2810f3e30e9
-SHA256: 85e46e2ef7652a3cc0ed4cb79c62f1aa959e55978fbd7498e004681a2e0b183c
+Size: 12908
+MD5sum: 72509dad3bacc501219a473d53ab3e57
+SHA1: cbdeac66f538cfa3c2ba7f1b803f48e486b3b7ab
+SHA256: b0116e508995853b9dd3a6978e708afb3c4d867b64167c181433a074023a9a44
 Description: plainDE About Window
 
 Package: plainArtwork
@@ -20,4 +20,51 @@ MD5sum: 3b9f15839e7052cc4845f8e83d4982be
 SHA1: 83dbc48b0c70b448a76091310352b6e1eaa1c759
 SHA256: e53eace3aed8add52cc283da23079267a3f5ee0223f0210f5a7df8dc837f8e0a
 Description: plainDE Artwork
+
+Package: plainBase
+Version: 0.7.1
+Architecture: amd64
+Maintainer: thm-unix <thm.unix@gmail.com>
+Depends: python3
+Filename: ./plainBase_0.7.1-1_amd64.deb
+Size: 165996
+MD5sum: 05443642625c9e92d73edb7d4ea6bd0e
+SHA1: 8613869a64b84949941c5264ac18ae5a24fa6566
+SHA256: 16dab8951abedabcb0b568b8acb9ec82f6622a464df9c6cfd949ce6e555ce0f4
+Description: plainDE Base Files
+
+Package: plainControlCenter
+Version: 0.7.1
+Architecture: amd64
+Maintainer: thm-unix <thm.unix@gmail.com>
+Depends: qtbase5-dev
+Filename: ./plainControlCenter_0.7.1-1_amd64.deb
+Size: 126560
+MD5sum: b7f7ba1a86ae484f221e42edbfa62a00
+SHA1: 2a535db25cbb84d50b25788d2eeba866341777ee
+SHA256: 8caca2e7f7d288f7bbd7ed5852b4486aeb265253c702b1ab5548c11006283f23
+Description: plainDE Control Center
+
+Package: plainPanel
+Version: 0.7.1
+Architecture: amd64
+Maintainer: thm-unix <thm.unix@gmail.com>
+Depends: qtbase5-dev, qtmultimedia5-dev, fonts-noto-color-emoji, fonts-open-sans, alsa-utils, libkf5windowsystem-dev, xcompmgr, libxkbcommon-x11-dev, policykit-1, upower, plainbase
+Filename: ./plainPanel_0.7.1-1_amd64.deb
+Size: 117672
+MD5sum: 50bec14751ad06ade40af50eefd2e6bb
+SHA1: 9b47076d78e1bbb622514a44894d3fc4dc5cebab
+SHA256: 67640deae4d597b994f08dea03c6740c3977878fc950803129459748fe1556e4
+Description: plainDE Panel
+
+Package: plainde-meta
+Version: 0.7.1
+Architecture: amd64
+Maintainer: thm-unix <thm.unix@gmail.com>
+Filename: ./plainde-meta_0.7.1-1_amd64.deb
+Size: 668
+MD5sum: 8807606a8092d5246f5173bef7321f52
+SHA1: 9d6080277912dc529ea57b1b1808c29c81eabc44
+SHA256: 9c15f8a5317d723920b3751e87136be3f985fdd916c73945570374737d31cfdb
+Description: plainDE Meta Package
 

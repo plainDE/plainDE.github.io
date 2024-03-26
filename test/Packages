@@ -61,10 +61,11 @@ Package: plainde-meta
 Version: 0.7.1
 Architecture: amd64
 Maintainer: thm-unix <thm.unix@gmail.com>
+Depends: plainbase, plainartwork, plainabout, plaincontrolcenter, plainpanel
 Filename: ./plainde-meta_0.7.1-1_amd64.deb
-Size: 668
-MD5sum: 8807606a8092d5246f5173bef7321f52
-SHA1: 9d6080277912dc529ea57b1b1808c29c81eabc44
-SHA256: 9c15f8a5317d723920b3751e87136be3f985fdd916c73945570374737d31cfdb
+Size: 708
+MD5sum: e47ee8d17c026b6040deac8eca608b52
+SHA1: c125522a44dd2c79952d1af38b98b9c145860404
+SHA256: 8573e10bd8efe1a8cde5a4532fb6e801a33851da6fad9aed7bddcf62c0bb961e
 Description: plainDE Meta Package
 
